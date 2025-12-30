@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GlowCycle</string>
+    <string name="title_activity_main">GlowCycle</string>
+    <string name="package_name">com.glowcycle.app</string>
+    <string name="custom_url_scheme">com.glowcycle.app</string>
+</resources>

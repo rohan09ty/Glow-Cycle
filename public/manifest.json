@@ -1,0 +1,24 @@
+{
+    "name": "GlowCycle - Women's Wellness & Period Tracker",
+    "short_name": "GlowCycle",
+    "description": "Track your menstrual cycle, log moods, and get personalized wellness guidance",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#FDF5F8",
+    "theme_color": "#E879A6",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any maskable"
+        }
+    ],
+    "categories": [
+        "health",
+        "lifestyle",
+        "wellness"
+    ],
+    "screenshots": []
+}
